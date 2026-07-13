@@ -61,7 +61,7 @@ Discord üyelerinin özel durum mesajlarını izleyerek otomatik rol veren/kald�
 ## Başlatma
 
 ```bash
-npm start
+node .
 ```
 
 ## Gereksinimler
