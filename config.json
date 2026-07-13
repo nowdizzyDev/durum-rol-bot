@@ -1,0 +1,18 @@
+{
+  "token": "BOT_TOKEN_BURAYA",
+  "guildId": "SUNUCU_ID_BURAYA",
+  "ownerId": "SAHIP_ID_BURAYA",
+  "voiceChannelId": "SES_KANAL_ID_BURAYA",
+  "logChannelId": "LOG_KANAL_ID_BURAYA",
+  "presence": {
+    "status": "online",
+    "type": "Watching",
+    "text": "DURUM_MESAJI_BURAYA"
+  },
+  "statusRules": [
+    {
+      "keyword": "örnek kelime",
+      "roleId": "ROL_ID_BURAYA"
+    }
+  ]
+}
