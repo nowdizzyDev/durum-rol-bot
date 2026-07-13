@@ -1,0 +1,14 @@
+{
+  "name": "durum-rol-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.10.0",
+    "@discordjs/voice": "^0.19.2",
+    "croxydb": "^0.0.26",
+    "discord.js": "^14.18.0"
+  }
+}
